@@ -1,2 +1,5 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_gestion_nominas_gestion_nominas,gestion_nominas.gestion_nominas,model_gestion_nominas_gestion_nominas,base.group_user,1,1,1,1
+access_gestion_nomina_user,gestion.nomina,model_gestion_nomina,base.group_user,1,1,1,1
+access_gestion_nomina_linea_user,gestion.nomina.linea,model_gestion_nomina_linea,base.group_user,1,1,1,1
+access_gestion_bonificacion_user,gestion.bonificacion,model_gestion_bonificacion,base.group_user,1,1,1,1
+access_gestion_declaracion_user,gestion.declaracion,model_gestion_declaracion,base.group_user,1,1,1,1
